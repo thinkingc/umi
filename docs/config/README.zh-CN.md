@@ -811,9 +811,7 @@ export default {
 <meta name="keywords" content="umi, umijs" />
 <meta name="description" content="🍙 插件化的企业级前端应用框架。" />
 <meta bar="foo" />
-```
-
-## mfsu <Badge>3.5+</Badge>
+<Badge>3.5+</Badge>
 
 - Type: `Object`
 - Default : `{}`
@@ -837,7 +835,7 @@ mfsu: {
     output : "./.mfsu-dev",
   },
   production : {
-    output : "./mfsu-prod",
+    output : "./.mfsu-prod",
   }
 },
 ```
